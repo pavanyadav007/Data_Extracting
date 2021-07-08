@@ -1,4 +1,4 @@
-# PYTHON MINI PROJECT-  99004494
+# PYTHON MINI PROJECT
 
 The main objective of the designed code is to read and write data Ffrom the source excel sheet to the output sheet. The code implemented, has considered the basic requirement of reading and writing data with user friendly environment by using openpyxl. 
 An excel sheet has been made manually which consists of 5 sheets, 1 master sheet and 1 output sheet. Here we are searching details of an individual in all the 5 sub-sheets corresponding to:
@@ -12,7 +12,7 @@ An excel sheet has been made manually which consists of 5 sheets, 1 master sheet
 **#1. The program is a python file which is in present at:**
 
         **3_implementation --> src --> main.py**
-![src](https://github.com/99004494-pavanyadav/99004494/blob/main/output_photos/folder_structure.png)
+![src](https://github.com/pavanyadav007/Data_Extracting/blob/master/output_photos/1_ide_de.png)
 
 **#2. Run the code i.e .py file onto a python IDE like pycharm.**
 
