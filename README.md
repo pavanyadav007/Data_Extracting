@@ -30,11 +30,12 @@ An excel sheet has been made manually which consists of 5 sheets, 1 master sheet
 ![src](https://github.com/pavanyadav007/Data_Extracting/blob/master/output_photos/4_output_file%20generated.png)
 
 
+
 **#6. Open the Datasheet excel file. And you can see the data printed onto the pyhon_final_output_sheet.**
 
 **#PYLINT_SCORE.**
 
-![src](https://github.com/99004494-pavanyadav/99004494/blob/main/output_photos/pylint_score_.png)
+![src](https://github.com/pavanyadav007/Data_Extracting/blob/master/output_photos/pylint_score_.png)
 
 ## Learning Resources 
 * https://www.w3schools.com/python/python_file_open.asp
