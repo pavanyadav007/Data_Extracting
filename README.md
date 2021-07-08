@@ -27,7 +27,8 @@ An excel sheet has been made manually which consists of 5 sheets, 1 master sheet
 
 **#5. A output file name calle python_final_output is generated in folder structure, indicating that the data has been written on the output_sheet.**
 
-![src](https://github.com/99004494-pavanyadav/99004494/blob/main/output_photos/4_output_file%20generated.png)
+![src](https://github.com/pavanyadav007/Data_Extracting/blob/master/output_photos/4_output_file%20generated.png)
+
 
 **#6. Open the Datasheet excel file. And you can see the data printed onto the pyhon_final_output_sheet.**
 
