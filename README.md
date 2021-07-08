@@ -16,11 +16,12 @@ An excel sheet has been made manually which consists of 5 sheets, 1 master sheet
 
 **#2. Run the code i.e .py file onto a python IDE like pycharm.**
 
-![src](https://github.com/99004494-pavanyadav/99004494/blob/main/output_photos/1_ide_de.png)
+![src](https://github.com/pavanyadav007/Data_Extracting/blob/master/output_photos/1_ide_de.png)
 
 **#3. After running the program, enter the necessary details which will be asked like  No./PS No.**
 
-![src](https://github.com/99004494-pavanyadav/99004494/blob/main/output_photos/2_list_ps.png)
+![src](https://github.com/pavanyadav007/Data_Extracting/blob/master/output_photos/2_list_ps.png)
+
 
 **#4. Press Enter.**
 
