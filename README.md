@@ -12,7 +12,7 @@ An excel sheet has been made manually which consists of 5 sheets, 1 master sheet
 **#1. The program is a python file which is in present at:**
 
         **3_implementation --> src --> main.py**
-![src](https://github.com/pavanyadav007/Data_Extracting/blob/master/output_photos/1_ide_de.png)
+![src](https://github.com/pavanyadav007/Data_Extracting/blob/master/output_photos/folder_structure.png)
 
 **#2. Run the code i.e .py file onto a python IDE like pycharm.**
 
